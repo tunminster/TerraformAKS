@@ -1,4 +1,4 @@
-<h1>Terraform solution for Howdens' TDP Platform</h1>
+<h1>Terraform solution </h1>
 
 This solution includes several placeholders for creating the Azure infraestructure for Howdens' TDP Platform.
 
